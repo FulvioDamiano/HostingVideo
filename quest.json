@@ -1,0 +1,64 @@
+{
+  "quests": [
+    {
+      "title": "1 - Reach the treatment room",
+      "description": "The treatment room is located beyond the security gate, here will take place all major radiotherapy operations"
+    },
+    {
+      "title": "2 - Dosimetric instruments 1/2",
+      "description": "Place the calibration phantom (the cube on the cart) in the center of red cross on the bed."
+    },
+    {
+      "title": "3 - Dosimetric instruments 2/2",
+      "description": "Now connect the instrument cable to the Phantom."
+    },
+    {
+      "title": "4 - Test",
+      "description": "Go to the control room and operate the radiotherapy machine"
+    },
+    {
+      "title": "5 - Test Completed",
+      "description": "Back to the treatment room"
+    },
+    {
+      "title": "6 - Dosimetric instruments",
+      "description": "Put 3D phantom on the couch"
+    },
+    {
+      "title": "7 - Test",
+      "description": "Go to the control room and operate the radiotherapy machine"
+    },
+    {
+      "title": "8 - Test Completed",
+      "description": "Back to the treatment room"
+    },
+    {
+      "title": "9 - Bring the Phantom back in its place (1/2)",
+      "description": "You need to take the phantom out of the treatment room because when it's not in use, it should be stored away from radiation. Put the Phantom on the cart"
+    },
+    {
+      "title": "10 - Bring the Phantom back in its place (2/2)",
+      "description": "Now, move the cart to the control room"
+    },
+    {
+      "title": "11 - Test Completed",
+      "description": "Back to the treatment room"
+    },
+    {
+      "title": "12 - Positioning",
+      "description": "Move the bed until the patient is correctly positioned, use the touch screen next to the bed"
+    },
+    {
+      "title": "13 - Put the mask",
+      "description": "Take the immobilization mask from the locker and place it on the patient's face."
+    },
+    {
+      "title": "14 - Test",
+      "description": "Go to the control room and operate the radiotherapy machine"
+    },
+    {
+      "title": "15 - Test Completed",
+      "description": "Back to the treatment room"
+    }
+  ]
+}
