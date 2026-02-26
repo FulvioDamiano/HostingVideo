@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <title>Iris Goo Goo Dolls</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #000; /* completamente nero */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  .player-card {
+    background: #000; /* stesso colore dello sfondo */
+    border-radius: 16px;
+    padding: 24px;
+    width: 90%;
+    max-width: 420px;
+    text-align: center;
+  }
+
+  .cover {
+    width: 260px;
+    max-width: 100%;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
+
+  .title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+
+  .artist {
+    font-size: 0.95rem;
+    color: #b3b3b3;
+    margin-bottom: 20px;
+  }
+
+  audio {
+    width: 100%;
+  }
+</style>
+  </head>
+  <body>
+    <div class="player-card">
+      <img class="cover" src="Iris-cover.png" alt="Cover Iris">
+      <div class="title">Iris</div>
+      <div class="artist">Goo Goo Dolls</div>
+      <audio controls preload="metadata">
+        <source src="Iris.mp3" type="audio/mpeg">
+        Il tuo browser non supporta l'audio HTML5.
+      </audio>
+    </div>
+  </body>
+</html>
